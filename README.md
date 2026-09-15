@@ -1,4 +1,4 @@
-# CROP - An intelligent farming system
+# VisionLog
 This project is an automated Face Recognition-based Attendance System that uses computer vision to detect and recognize faces in real time and mark attendance accordingly.
 
 Instead of traditional manual attendance methods, this system captures live video, identifies individuals using facial features, and records attendance with timestamps. This improves accuracy, efficiency, and security in attendance management.
