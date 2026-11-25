@@ -67,8 +67,6 @@ Install Jupyter and the core computer vision and data processing libraries used 
 pip install jupyter opencv-python face_recognition numpy pandas scikit-learn
 ```
 
-*(Note: If you have a `requirements.txt` file, you can run `pip install -r requirements.txt` instead.)*
-
 ### 4. Launch Jupyter Notebook
 
 Start Jupyter from inside the project directory:
